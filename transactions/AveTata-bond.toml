@@ -1,0 +1,16 @@
+[[bond]]
+source = "tpknam1qq3q6mc7y5f5r9cf29sq62ndrgwurd77afhlx5kegcekapkkvdfd65j5kfy"
+validator = "tnam1qxepvwg3c24kv0ltlkaasxscy3fsk89h8vrwzgd7"
+amount = "84"
+
+[bond.signatures]
+tpknam1qq3q6mc7y5f5r9cf29sq62ndrgwurd77afhlx5kegcekapkkvdfd65j5kfy = "signam1qryvplsxp79h8q3lcxec4e7ea73jezym2rcwd2220qs0qnc37kepsmvrl9k037e4llmlj80xs4etup90cn35a58ef6c08vzk429mpmqv429yrx"
+
+
+[[bond]]
+source = "tpknam1qq3q6mc7y5f5r9cf29sq62ndrgwurd77afhlx5kegcekapkkvdfd65j5kfy"
+validator = "tnam1qydvhqdu2q2vrgvju2ngpt6yhrehu525pus6m28p"
+amount = "21"
+
+[bond.signatures]
+tpknam1qq3q6mc7y5f5r9cf29sq62ndrgwurd77afhlx5kegcekapkkvdfd65j5kfy = "signam1qqcfeq5frddgcpy9gk34p3wac308a8ytjvwph8mecc2mzw4mqxv87x97fmk22svg5zgw026yn9ulhp3fm092mdzt56vnatdyknlazagtsx2vel"
